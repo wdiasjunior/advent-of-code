@@ -1,9 +1,9 @@
 package main
 
 import (
-  src "github.com/wdiasjunior/advent-of-code-2023/src"
+  src "github.com/wdiasjunior/advent-of-code/src"
 )
 
 func main() {
-  src.Day1();
+  src.Day1Part2();
 }
